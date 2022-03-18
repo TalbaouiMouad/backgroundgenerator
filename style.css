@@ -1,0 +1,9 @@
+body {
+    font-family: 'Krona One', sans-serif;
+    font-size: 2em;
+    text-align: center;
+    background: linear-gradient(to right, red, yellow);
+}
+input{
+    cursor: pointer;
+}
